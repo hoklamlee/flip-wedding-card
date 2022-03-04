@@ -1,4 +1,4 @@
-<h3 align="center">kevin-wedding</h3>
+<h3 align="center">flip-wedding-card</h3>
 
 <div align="center">
 
@@ -66,7 +66,8 @@ npm start
 
 ## 🎈 Usage <a name="usage"></a>
 
-Add notes about how to use the system.
+![PhotoGIF_3_4_2022_12_52_45_AM](https://user-images.githubusercontent.com/28838535/156756872-4358105c-3268-452b-bce0-ad25a1bd7c91.gif)
+
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
